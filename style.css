@@ -1,5 +1,5 @@
 /*
-Theme Name: CALS Research Working
+Theme Name: CALS Research Division 2014
 Theme URI: http://research.cals.wisc.edu/
 Description: Child theme of CALS Research, to be used when theme changes for the Research Division site are needed. ALWAYS EDIT THIS THEME (OR CREATE A NEW CHILD THEME); DO NOT EDIT CALS RESEARCH!
 Author: CALS Research Division, Liz Krznarich (PA/Webmaster 2012-13)
@@ -54,14 +54,14 @@ Version: 0.1
 #content{
 	margin: 0;
 	padding: 10px;
-	
+
 }
 
 #main{
 	margin: 0;
 	padding: 10px;
 	width: 952px;
-	
+
 }
 
 #main .widget-area ul{
@@ -81,7 +81,7 @@ Version: 0.1
 }
 #content .entry-content h3, #related_links .dept_title, #content h2.entry-title{
 	//font-family: Arial, Helvetica, sans-serif;
-	
+
 	font-size: 20px;
 	font-weight: bold;
 	border-bottom: 1px solid #900;
@@ -96,7 +96,7 @@ Version: 0.1
 	color: #85857F;
 	margin-bottom: 10px;
 }
-	
+
 .entry-content ul{
 	list-style-image: url(images/bullet-arrow-12px.png);
 }
@@ -130,17 +130,17 @@ Version: 0.1
 	padding: 10px 30px 10px 10px;
 	background-color: #F5F2D6;
 	//min-width: 300px;
-	
-	
+
+
 }
-	
+
 .internal-nav ul li{
 	list-style-image: url(images/bullet-arrow.png);
 	list-style-position: inside;
 	font-size: 13px;
 	padding: 0;
 	margin: 0;
-	
+
 }
 
 a.top-link{
@@ -195,7 +195,7 @@ a.top-link-redbg:hover{
 	line-height: 1.5em;
 	//min-height: 200px;
 	border-radius: 10px;
-	
+
 }
 
 .main-content-highlight{
@@ -393,7 +393,7 @@ h1.widget-title{
 #page_nav_menu h3{
 	margin-bottom: 0;
 }
-	
+
 #page_nav_menu h3 a {
 	color: #fff;
 	font-family: Arial, Helvetica, sans-serif;
@@ -463,7 +463,7 @@ h1.widget-title{
 .widget_slideshow h1{
 	display: none;
 }
-	
+
 /*h1 on home page only*/
 h1#main-title{
 	line-height: 30px;
@@ -567,7 +567,7 @@ ul.lcp_catlist li li{
 	border-top: none;
 	margin: 0 0 30px;
     padding: 0 0 30px;
-	
+
 }
 
 .single #container{
@@ -621,7 +621,7 @@ ul.lcp_catlist li li{
 }
 #content .links_table .gray-row td{
 	padding: 2px 24px;
-}								
+}
 
 #content .jumpLinks{
 	float: right;
@@ -678,7 +678,7 @@ ul.three-col{
 
 #content .award-table{
 	width: 100%;
-	//font-size: .7em;				
+	//font-size: .7em;
 }
 
 #content .award-table td, #content .award-table th{
